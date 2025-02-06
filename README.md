@@ -12,9 +12,11 @@ This repository provides you with a detailed guide on how to training and build 
   pip install -r ./requirement.txt
 ```
 
+or you can install the conda env from package-list.txt file 
+
 - **Pretrained model** provided in ./model folder in this repo 
 
-- Enter the list of cars plates that you allowing to enter in Allowed-car-to-enter.png
+- Enter the list of cars plates that you allowing to enter in allowed.txt
 
 ## Run License Plate Recognition
 
