@@ -31,7 +31,9 @@ This repository provides you with a detailed guide on how to training and build 
 ```
 
 ## Result
-![Demo 1](result/image.jpg)
+![Demo 1](result/Not-allowed-car-to-enter.png)
+![Demo 2](result/Allowed-car-to-enter.png)
+![Demo 3](result/image.jpg)
 
 ![Vid](result/video_1.gif)
 
